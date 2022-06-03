@@ -7,6 +7,8 @@ nav_order: 1.8
 
 # Data Analysis in R
 
+**Session Recording:** Link will be posted here after Bootcamp. 
+
 ## Instructor
 
 Jacob Holster, PhD. (he/him/his)  

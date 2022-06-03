@@ -3,7 +3,7 @@ layout: default
 title: Home
 nav_order: 1
 ---
-# CRDDS Research Data Bootcamp (2021)
+# CRDDS Research Data Bootcamp (2022)
 Sponsored by the [Center for Research Data and Digital Scholarship (CRDDS)](https://www.colorado.edu/crdds/)
 
 ## Coordinators
@@ -19,6 +19,11 @@ Data Librarian
 Center for Research Data and Digital Scholarship  
 University of Colorado Boulder Libraries  
 [Aditya.Ranganath@colorado.edu](mailto:Aditya.Ranganath@colorado.edu)
+
+Dylan Perkins\
+Associate Director of User Support\
+Center for Research Data and Digital Scholarship\
+University of Colorado Boulder Research Computing  
 
 ## Schedule
 

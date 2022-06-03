@@ -7,11 +7,7 @@ nav_order: 1.9
 
 # Data Analysis in Python
 
-## 2021 Recordings Python
-### Boot Camp Data Analysis in Python Session
-[https://youtu.be/3j9frOAgcl8](https://youtu.be/3j9frOAgcl8)
-### Data Visualization in Python
-[https://youtu.be/337VoQH9gS4](https://youtu.be/337VoQH9gS4)
+**Session Recording:** Link will be posted here after Bootcamp. 
 
 ## Instructor
 Tim Dunn 

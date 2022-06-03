@@ -7,8 +7,7 @@ nav_order: 1.82
 
 # Ethics and the Social Context of Data: A Case Study of the United States Census
 
-### 2021 Boot Camp Recording - Data Ethics and Context Session
-[https://youtu.be/qHNyehOmakA](https://youtu.be/qHNyehOmakA)
+**Session Recording:** Link will be posted here after Bootcamp. 
 
 ## Instructor
 Nickoal Eichmann-Kalwara\
